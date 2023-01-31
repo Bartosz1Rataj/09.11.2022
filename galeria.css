@@ -1,0 +1,45 @@
+body{
+    color: black;
+}
+
+#container{
+    width: 970px;
+    height: 970px; 
+    margin-right: auto;
+
+}
+
+#zdj{
+    opacity: 0.5;
+    position: absolute;
+
+}
+
+#nav{
+    margin-top: 20px;
+    text-align: center;
+    font-family: Comic Sans MS;
+    text-shadow: 2px 2px 10px rgb(40, 156, 156);
+    position: absolute;
+    float: left;
+    font-size: 25px;
+    margin-left: 25%;
+}
+
+
+#nav:hover{
+    color: black;
+}
+
+#nav:visited{
+    color: black;
+}
+
+.zdjj{
+    border: black solid 2px;
+}
+
+.zdjj:hover{
+    opacity: 0.7;
+    
+}
